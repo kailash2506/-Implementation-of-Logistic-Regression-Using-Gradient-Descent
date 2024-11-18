@@ -77,17 +77,25 @@ y_prednew = predict (theta, xnew)
 print(y_prednew)
 ```
 
+
 ## Output:
+
 ### Dataset
 ![alt text](<EXP 06(1).png>)
+
 ![alt text](<EXP 06(2).png>)
+
 ![alt text](<EXP 06(3).png>)
+
 ![alt text](<EXP 06(4).png>)
 
 ### Accuracy and Predicted Values
 ![alt text](<EXP 06 (1.1).png>)
+
 ![alt text](<EXP 06(1.3).png>)
+
 ![alt text](<EXP 06(1.2).png>)
+
 ![alt text](<EXP 06(1.4).png>)
 
 ## Result:
